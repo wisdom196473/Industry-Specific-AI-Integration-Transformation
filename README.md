@@ -1,4 +1,4 @@
-# Industry-Specific-AI-Integration-Transformation
+# Industry Specific AI Integration Transformation
 
 ## Executive Summary
 
